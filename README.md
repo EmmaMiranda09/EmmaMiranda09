@@ -59,13 +59,12 @@ You can click the Preview link to take a look at your changes.
   </tr>
    <tr>
     <td width = "50px">
-      <h4 align="center"> Proyecto Detección de Puntos de la mano </h4>
+      <h4 align="center"> Código Detección de Puntos de la mano en Python </h4>
       <img src = "https://th.bing.com/th/id/R.a3bfac76db3437f92e07f2a01d4f1cbd?rik=Ez3WZVuR5JbP0A&pid=ImgRaw&r=0" width = "200">
     </td>
     <td width = "500px">
-    <p>**Nota: Código desarrollado en Python desde Google Colab**</p>
-    link 
-    </td>
+    Puedes consultar el código en el siguiente enlace: <a href="https://github.com/EmmaMiranda09/Codigo_PuntosdeRefManos">Visitar Proyecto</a> ó desde 
+                                                      <a href="https://colab.research.google.com/drive/1PyAu7iNquvPT7H2pOxgYr6dk9c2e2VCa#scrollTo=j7D0urkFKBDM">Google Colab</a>
   </tr>
 
 </table>
