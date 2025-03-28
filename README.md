@@ -50,11 +50,10 @@ You can click the Preview link to take a look at your changes.
   </tr>
   <tr>
     <td width = "50px">
-      <h4 align="center"> Proyecto en fase de Pruebas *BlackJack*  </h4>
-      <img src = "https://img.freepik.com/premium-vector/testing-web-app-develop-optimization-icon-software-test-analysis-line-vector-mobile-phone-app-web-application-software-test-ui-usability-ux-analytics-process-error-debugging_8071-58342.jpg?w=996" width = "200">
+      <h4 align="center"> Proyecto Veterinaria en Java </h4>
+      <img src = "https://t3.ftcdn.net/jpg/01/75/44/10/360_F_175441038_5KtHJjBwEymheSztgB24PfKJmCzhPGzK.jpg" width = "200">
     </td>
     <td width = "500px">
-    <p>**Nota: Este proyecto fue realizado en equipo  y el código fue proporcionado por un tercero**</p>
     link 
     </td>
   </tr>
