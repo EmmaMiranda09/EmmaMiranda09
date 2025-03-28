@@ -54,7 +54,7 @@ You can click the Preview link to take a look at your changes.
       <img src = "https://t3.ftcdn.net/jpg/01/75/44/10/360_F_175441038_5KtHJjBwEymheSztgB24PfKJmCzhPGzK.jpg" width = "200">
     </td>
     <td width = "500px">
-    link 
+    Puedes consultar los códigos en el siguiente enlace: <a href="https://github.com/EmmaMiranda09/VeterinariaJava" target="_blank">Visitar Proyecto</a>     
     </td>
   </tr>
    <tr>
