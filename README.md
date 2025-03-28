@@ -34,10 +34,9 @@ You can click the Preview link to take a look at your changes.
     <td width = "50px">
       <h4 align="center"> Proyecto en fase de Análisis</h4>
       <img src = "https://img.freepik.com/vector-premium/documento-lineal-negro-como-concepto-auditoria-auditor-fax-seo-escrutinio-verificacion-anual-evaluacion-informacion-crecimiento-pronostico-estilo-plano-logotipo-diseno-vector-ilustracion-sobre-fondo-blanco_775815-688.jpg?w=740" width = "200">
-      <a href = ""></a>
     </td>
     <td width = "500px">
-    Link     
+    <a href="https://github.com/EmmaMiranda09/VirtualLunch" target="_blank">Visitar Proyecto</a>    
     </td>
   </tr>
   <tr>
