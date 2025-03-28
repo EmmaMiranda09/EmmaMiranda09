@@ -36,16 +36,16 @@ You can click the Preview link to take a look at your changes.
       <img src = "https://img.freepik.com/vector-premium/documento-lineal-negro-como-concepto-auditoria-auditor-fax-seo-escrutinio-verificacion-anual-evaluacion-informacion-crecimiento-pronostico-estilo-plano-logotipo-diseno-vector-ilustracion-sobre-fondo-blanco_775815-688.jpg?w=740" width = "200">
     </td>
     <td width = "500px">
-    <a href="https://github.com/EmmaMiranda09/VirtualLunch" target="_blank">Visitar Proyecto</a>    
+    Puedes consultar el pdf en el siguiente enlace: <a href="https://github.com/EmmaMiranda09/VirtualLunch" target="_blank">Visitar Proyecto</a>    
     </td>
   </tr>
   <tr>
     <td width = "50px">
-      <h4 align="center"> Calculadora en Java</h4>
+      <h4 align="center"> Calculadora en Haskell</h4>
       <img src = "https://static.vecteezy.com/system/resources/previews/012/581/526/non_2x/black-and-white-calculator-01-vector.jpg" width = "200">
     </td>
     <td width = "500px">
-    Link     
+     Puedes consultar los códigos en el siguiente enlace: <a href="https://github.com/EmmaMiranda09/CalculadoraHaskell" target="_blank">Visitar Proyecto</a>     
     </td>
   </tr>
   <tr>
